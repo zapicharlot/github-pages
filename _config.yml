@@ -11,4 +11,4 @@ twitter_username: tu-usuario-twitter # NO incluyas el carácter @ character, ¡o
 github_username:  tu-usuario-github # NO incluyas el carácter @ character, ¡o la compilación fallará!
 
 show_excerpts: true # cámbialo a false para eliminar los extractos de la página principal
-# theme:minima
+theme: minima
