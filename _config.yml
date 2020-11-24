@@ -2,7 +2,8 @@ title: Portafolio de Carlota Zapirain
 author: "Carlota Zapirain"
 email: c.zapirain@opendeusto.es 
 description: > # this means to ignore newlines until "baseurl:"
-  Este será un portafolio con información sobre las reuniones de expertos
+  Este será un portafolio con información sobre las reuniones de expertos. 
+  # twitter_username: TU-USUARIO-TWITTER
 
 # social links
 twitter_username: tu-usuario-twitter # NO incluyas el carácter @ character, ¡o la compilación fallará!
