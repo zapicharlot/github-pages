@@ -26,10 +26,19 @@ __Materiales__
 
 __¿Cuando?__
 En la fase de investigación, definición y generación. Cuando es necesario definir o validar la arquitectura de la información.
+
 __¿Cómo?__
 Presencial o telemática.
 + **Card sorting presencial**: individual o grupal. 
-+ + **Card sorting telemático**
++ + **Card sorting telemático** existen algunas herramientas digitales como: kardSort, OptimalSort o CardSort tool de UXTweak
+
+__Caracterísitcas de las reuniones__: 
+- Nombrar a una persona que observe y pida a los participantes que ordenen y clasifiquen las tarjetas en categorías predefinidas.
+- Una vez decidido si el cars sorting será abieto o cerrado, tenems que preparar las tarjetas.
+- Máximo de 30 a 40 trajetas. 
+- Necesario realizar el reclutamiento de los participantes, un máximo de 15 personas. 
+- Alrededro de 60 minutos tiene que durar la prueba. 
+
 
 
 
