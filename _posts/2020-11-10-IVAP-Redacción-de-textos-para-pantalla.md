@@ -35,10 +35,34 @@ Estructurar la información de modo que encuentren fácilmente la información q
 4.8 Adecuar el texto a distintos niveles de lectura
 4.9 Textos que no se pueden adaptar a la web
 4.10 Revicar y cororegir 
++ "Descansar" uno o dos días el texto 
++ Léelo en viz alta
++ Ten en cuenta la **regla de oro**: si no se entiende en la primera lectura, hay que reescriberlo.
++ Contrasta con otras personas
++ Comprobarlo
++ No pierdas de vista los pequeños detalles
++ Valora el texto desde el punto de vista del lector
++ Analiza la posibilidad de abreviar el texto
++ Otros elementos de la página
++ Se coherente
++ Ten en cuanta que no todos los textos precisan la misma correción
+
+
 
 Estilo 
-1.3 ¿Cómo abreviar?
++ Más fácil perder la concentración al leer textos en pantalla que al leerlos en formato papel.
++ Debemos aprovechar la hipertextualidad para definir la jerarquila de los contenidos y aligerar los textos.
++ Insistimos en que la longitud no es un probelma relacionado con un número concreto de palabras.
++ Los usuarios captan más contenido en un primer vistazo, sin tener que desplazarse hacia arriba o hacia abajo por la pantalla. 
+
+1.3 ¿Cómo **abreviar**?
+El método es muy simple: se trata de detectar y eleminar la información irrelevante.
+1. Hábitos de redacción
+2. Discursos innecesarios: Los intentos de cortar y eliminar todo lo que podamos se deben efectuar por fases. No se esperes abreviar todo en el primer intento. 
+
 1.4 Longitud de los documentos adjuntos
+- Se trata de un texto que no sigue los parámetros de lectura de la web.
+- Pero debemos analizar el tipo de texto que tenemos entre manos antes de decidir si lo publicaremos en la web como material adjunto, de forma que resulte una opción inadecuada. 
 2. Párrafos 
 - Asimilar temas complejos.
 - Reconocer la estructura general del escrito.
