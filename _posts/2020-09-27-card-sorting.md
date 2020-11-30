@@ -37,8 +37,19 @@ __Caracterísitcas de las reuniones__:
 - Una vez decidido si el cars sorting será abieto o cerrado, tenems que preparar las tarjetas.
 - Máximo de 30 a 40 trajetas. 
 - Necesario realizar el reclutamiento de los participantes, un máximo de 15 personas. 
-- Alrededro de 60 minutos tiene que durar la prueba. 
+- Alrededor de 60 minutos tiene que durar la prueba. 
 
+Analizar las categorizaciones, es conveniente tomar nota de los comentarios y reacciones de los participantes mientras estan clasficiando la información.
+
+**VENTAJAS**
+- Técnica rápida,económica y fiable.
+- Garantiza que la arquitectura de la información del producto se base en los modelos de los usuarios.
+- Permite obtener información cualitativa sobre la percepción de los usuarios. 
+- Software: registra la ordenación de cada usuario y de manera automática realiza el análisis de los resultados.
+**INCOVENIENTES**
+- Se necesita usuarios para hacer el ejercicio
+- Riguroso en el análisis de los datos recogidos.
+- No se puede definir toda la arquitectua de la información haciendo un card sorting. 
 
 
 
