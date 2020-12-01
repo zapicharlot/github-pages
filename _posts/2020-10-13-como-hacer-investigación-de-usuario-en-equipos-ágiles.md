@@ -21,4 +21,6 @@ Recomendaciones para que funcionen bien:
 **Consejos para equipos distribuidos y usuarios remotos**
 **Incorporación en ciclo ágil**
 **Conclusión**
+- Los product managers ahorrarán dinero
+- Los diseñadores estarán seguros sobre sus decisiones de diseño
 
