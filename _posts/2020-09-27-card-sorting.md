@@ -1,6 +1,6 @@
 ---
-title: Carlota Zapirain Card Sorting
-Date: 2020-09-27
+title: "Carlota Zapirain Card Sorting"
+Date: 2020-10-27
 --- 
 
 ¿Qué es?
