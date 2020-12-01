@@ -6,3 +6,19 @@ La clave prosperar en el entorno competitivo de los productos digitales, es cent
 La gente no va a pagar por un producto que no se adapte a sus necesidades. 
 Agiles se ha convertido en la estrategia más comun en la industria del sofware.
 Los equipos ágiles pueden adaptarse rápidamente al cambio en las preferencias del usuario. La investigación de usuarios es la herramienta para detectar ese pulso de cambio. 
+
+Recomendaciones para que funcionen bien:
+1. No hay UX sin el usuario
+
+**Mitos de investigación de usuarios en equipos ágiles**
+**Rompiendo los mitos**
+1. Prueba pequeñas hipótesis
+2. Asignar el trbajo de investigación
+3. Maximiza el uso del tiempo
+4. Involcura a todo el equipo
+
+**Consejos para equipos locales**
+**Consejos para equipos distribuidos y usuarios remotos**
+**Incorporación en ciclo ágil**
+**Conclusión**
+
