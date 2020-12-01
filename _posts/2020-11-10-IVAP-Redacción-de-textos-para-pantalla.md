@@ -34,7 +34,7 @@ Estructurar la información de modo que encuentren fácilmente la información q
 4.7 Redactar el título
 4.8 Adecuar el texto a distintos niveles de lectura
 4.9 Textos que no se pueden adaptar a la web
-4.10 Revicar y cororegir 
+4.10 Revisar y cororegir 
 + "Descansar" uno o dos días el texto 
 + Léelo en viz alta
 + Ten en cuenta la **regla de oro**: si no se entiende en la primera lectura, hay que reescriberlo.
