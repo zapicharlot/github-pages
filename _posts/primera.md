@@ -11,6 +11,9 @@ __La Experiencia del Usuario__
 - **Objetivo**: intenta resolver el problema estratégico de la utilidad del producto y el problema psicológico del placer y diversión de su uso.
 - Su origen en el campo del Marketing esta muy vinculado con el concepto de Experiencia de Marca. 
 4. **Definición**
+- La Experiencia del Usuario representa un cambio emergente del propio conepto de usabilidad.
+- Las emociones y expectativas del usuario y su relación con otras personas y el contexto de uso.
+- Definimos experiencia como la **sensación, sentimiento, respuesta emocional, valoración y satisfacción del usuario respecto a un producto, resultado del fenómeno de interacción con el producto y la interacción con su proveedor**. 
 5. **Factores que componen la Experencia del Usuario**
 - Clasifican los diferentes factores en 5 grupos diferenciados: factores propios del usuario, factores sociales
 culturales, del contexto de uso y propuos del producto.
