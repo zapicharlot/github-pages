@@ -4,7 +4,15 @@ Date: 2020-10-13 cambiar
 --- 
 
 __La Experiencia del Usuario__
-1. **HCI**
+1. **HCI**(Interacción Persona-Ordenador) y **Usabilidad**
++ El HCI es el área de estudio centrada en el fenómeno de interacción entre usuarios y sistemas informaticos
+- **Objetivo**: proporcionar bases teóricas, metodológicas y prácticas para el diseño y evaluación de productos interactivos.
+- **La HCI** es interdisciplinar en su práctica y multidisciplinar en su origen.
+- Las **Disciplinas** qué se mencionan son: psicología cognitiva y de la conducta, ergonomía, antropología, sociología y ciencias de la computación entre otras. 
++ La Usabilidad es un concepto central e inherente a la HCI.
+- Se refiere al grado de eficacia, eficiencia y satisfacción con la que usuarios específicos pueden lograr objetivos específicos.
+- **Ingeniería de la Usabilidad** y **Diseño Centrado en el usuario**
+- 4 grandes categorias: Métodos de indagación, de prototipado y categorización, de inspección, y de test.
 2. **Limitaciones del enfoque "tradicional"**
 3. **Origen**
 - La experiencia del Usuario representa un cambio emergente del propio concepto de usabilidad.
