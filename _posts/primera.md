@@ -3,7 +3,7 @@ title: "Carlota Zapirain Como hacer investigación de usuario en equipos agiles"
 Date: 2020-10-13 cambiar
 --- 
 
-__La Experiencia del Usuario__
+__La Experiencia del Usuario__ 
 1. **HCI**(Interacción Persona-Ordenador) y **Usabilidad**
 + El HCI es el área de estudio centrada en el fenómeno de interacción entre usuarios y sistemas informaticos
 - **Objetivo**: proporcionar bases teóricas, metodológicas y prácticas para el diseño y evaluación de productos interactivos.
