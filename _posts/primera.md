@@ -14,6 +14,11 @@ __La Experiencia del Usuario__
 - **Ingeniería de la Usabilidad** y **Diseño Centrado en el usuario**
 - 4 grandes categorias: Métodos de indagación, de prototipado y categorización, de inspección, y de test.
 2. **Limitaciones del enfoque "tradicional"**
+- Tradicinalmente la investigación en el campo de la Interacción Persona-Ordenador ha centrado su estudio en las habilidades y procesos cognitivos del usuario, estudiando únicamente su comportamiento racional y dejando de lado su compotamiento emocional--deshumanización del usuario--. 
+- Compotamiento **emocional** del usuario:
+**emociones+estado de humor+sentimientos**
+- Los aspectos emocioanles juegan un papel fundamental en la **interacción del usuario** por los estados emocioales afectan a los procesos cognitivos. Estas afectan a la capacidad de atención y memorización.
+- El diseño de un producto puede evocar emociones de forma explícita, expresando 'afecto' o implícita a traves de su estética.
 3. **Origen**
 - La experiencia del Usuario representa un cambio emergente del propio concepto de usabilidad.
 - **Objetivo**: intenta resolver el problema estratégico de la utilidad del producto y el problema psicológico del placer y diversión de su uso.
