@@ -14,7 +14,7 @@ Recuadro 1: Declaración del problema de negocios |   Recuadro 2: Resultados com
 ------------------------------------------------ |   ---------------------------------- | --------------------
  Esta caja está diseñada para ayudar al equipo particular para saber lo que ha cambiado en el mundo y de que manera ha impactado en su negocio y como se puede resolver. **Ejemplo del texto: la conectvidad** | Más detalles sobre lo que debería ser un buen resultado. Además, se necesitaba una distinción más clara entre este cuadro y el Cuadro 4. Este es un intento de dejar claro que lo que se necesita en esta caja es un cambio en el comportamiento de un cliente, un usuario, un empleado, un ejecutivo, etc. | Aquí es donde añadimos a las personas y no nos centramos sólo en los clientes o usuarios sino en los administradores y compradores entre otros usuarios.  Es cierto, que hay características de usuario que todo el mundo cree,  y por eso es importante asegurar que el equipo esté alineado en torno a una visión compartida del cliente.| 
 Rec 4: Resultados y beneficios para el usuario   |                                      | Rec 5: Soluciones
--------------------------------------------------| -------------------------------------| -----------------
+cbwcbwucbewbceuwibdeww  |idehwdieb3db3iudb|
 
 
                           
