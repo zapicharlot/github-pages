@@ -1,6 +1,6 @@
 ---
-title: "Carlota Zapirain Como hacer investigación de usuario en equipos agiles"
-Date: 2020-10-13
+title: "Carlota Zapirain: The Lean Ux Canvas"
+Date: 2020-10-06
 --- 
 
 Prefiero escoger y elegir las suposiciones que se pueden encontrar en el lienzo del modelo de negocio. Sera apropiado para cualquier cliente, proyecto o iniciativa en la que estoy participando. Esto los teje juntos para forma hipótesis y planes de experimentación comprobables. Como nuestro compromiso estaba terminando, quise dejarlos con un claro guía paso a paso para el descubrimiento de productos. Con ese fin, creé el Lienzo Lean UX. 
@@ -9,9 +9,6 @@ Con el reciente lanzamiento de la Scrum con curso de UX, el lienzo de UX comenz�
 
 Este lienzo codifica el proceso que introdujimos por primera vez en el libro Lean UX.
 Hoy en día, uso este proceso para ayudar a los equipos a enmarcar su trabajo como un problema de negocios a resolver ( más bien que una solución a implementar) y luego diseccionar ese problema de negocios en su núcleo de suposiciones. Luego entretejemos esas suposiciones en hipótesis. Finalmente, diseñamos experimentos para probar nuestras hipótesis más arriesgadas. 
-
-
-
 
 Antes de entrar en las diferencias y la justificación de los cambios de V1 a V2, quiero para cubrir el propósito que creo que sirve el lienzo y cómo me imaginé que sería utilizada:
 - Es una herramienta de facilitación para equipos multinacionales diseñada para crear una conversación cenrada en el trabajo que el equipo esta haciendo. 
