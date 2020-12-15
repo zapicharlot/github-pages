@@ -12,8 +12,10 @@ Recomendaciones para que funcionen bien:
 
 **Mitos de investigación de usuarios en equipos ágiles**
 **Rompiendo los mitos**
-1. Prueba pequeñas hipótesis
-2. Asignar el trbajo de investigación
+1. *Prueba pequeñas hipótesis*
+Evalua pequeñas partes de tu producto **mediante la formulación de una hipótesis sobre cómo resolver un problems con un nuevo diseño o función.** Por ejemplo: "Creeemos que si implementamos una funcionalidad de alerta de conflictos podremos reducir los tickets de soporte en un 30%". De repente, el trabajo cambia. Ahora el objetivo es reducri los ticktes de sporte, no liberar una funcionalidad determinada. Esto significa que el equipo explorará opciones como la **creación de un rol de moderador.** No hay necesidad de investigar el producto completo, solamente esa pequeña idea. 
+2. *Asignar el trabajo de investigación*
+Para que las actividades de investigación de usuarios sean tomadas en serio, tienen que ser visibles y ser priorizadas, así que deben ser incluidas en el backlog
 3. Maximiza el uso del tiempo
 4. Involcura a todo el equipo
 
