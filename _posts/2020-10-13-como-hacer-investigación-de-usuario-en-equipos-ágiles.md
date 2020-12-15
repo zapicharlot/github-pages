@@ -9,10 +9,24 @@ Los equipos ágiles pueden adaptarse rápidamente al cambio en las preferencias 
 
 Recomendaciones para que funcionen bien:
 1. No hay UX sin el usuario
+En el centro de UX se encuentra la investigación de usuarios, la cual consiste en un conjunto de técnicas para comprender los **comportamientos, necesidades y motivaciones** de los usuarios a través de la oberservación y la medición. 
+Existen actividades específicas de investigación que pueden ayudar en cada etapa del proceso de desarrollo del prodtucto:
++ Entrevistas
++ Pruebas de usabilidad
++ Investigación contextual
++ Ejercicios generativos
++ Encuestas
++ Analytics
++ Pruebas A/B
 
 **Mitos de investigación de usuarios en equipos ágiles**
+El trabajo se recompensa en función de cuántas características se liberan; y no de cuánto estamos cambiando el comportamiento del usuario hacia nuestros objetivos de negocio.
+La investigación y los requirimientos se combinan a menudo en un solo paso.
+Los propietarios de productos presentan especificaciones de diseño justo antes de que comience el desarrollo. 
 **Rompiendo los mitos**
+
 Para incorporar las actividades de la investigación de usuarios en tu proceso ágil, todo el equipo debe cambiar a una visión del producto centrada en el usuario. El cambio comienza cuando el aprendizaje de los usuarios está en el centro de tu trabajo. 
+
 1. *Prueba pequeñas hipótesis*
 Evalua pequeñas partes de tu producto **mediante la formulación de una hipótesis sobre cómo resolver un problems con un nuevo diseño o función.** Por ejemplo: "Creeemos que si implementamos una funcionalidad de alerta de conflictos podremos reducir los tickets de soporte en un 30%". De repente, el trabajo cambia. Ahora el objetivo es reducri los ticktes de sporte, no liberar una funcionalidad determinada. Esto significa que el equipo explorará opciones como la **creación de un rol de moderador.** No hay necesidad de investigar el producto completo, solamente esa pequeña idea. 
 2. *Asignar el trabajo de investigación*
