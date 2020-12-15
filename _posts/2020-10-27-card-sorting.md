@@ -54,3 +54,4 @@ Analizar las categorizaciones, es conveniente tomar nota de los comentarios y re
 
 
 
+![ejemplo de card sorting](/Imagenes/card-sorting.jpeg)
