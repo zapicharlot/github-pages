@@ -1,5 +1,5 @@
 ---
-title: "Carlota Zapirain Como hacer investigación de usuario en equipos agiles"
+Title: "Carlota Zapirain:Como hacer investigación de usuario en equipos agiles"
 Date: 2020-10-13
 --- 
 La clave prosperar en el entorno competitivo de los productos digitales, es centrarse en la Experencia del Usuario (UX). 
