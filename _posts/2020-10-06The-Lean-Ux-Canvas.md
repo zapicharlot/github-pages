@@ -1,5 +1,5 @@
 ---
-title: "Carlota Zapirain: The Lean Ux Canvas"
+Title: "Carlota Zapirain: The Lean Ux Canvas"
 Date: 2020-10-06
 --- 
 
@@ -29,7 +29,7 @@ No hay ningún cambio significatuvo aquí. **Ejemplo texto**: Creemos que se log
 
 
 carlota | eider| aihnoa | patrica | 
-
+-------- ------ -------- ---------
 
 
                           
