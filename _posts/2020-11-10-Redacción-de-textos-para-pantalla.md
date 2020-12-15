@@ -19,7 +19,8 @@ Estructurar la información de modo que encuentren fácilmente la información q
 
 2.1 Contenido VS diseño
 2.2 ¿Por qué debo modificar mi modo de escribir?
-3. Recomendaciones generales para quien escribe textos web
+3.**Recomendaciones generales para quien escribe textos web**
+
 3.1 No des explicaciones; conversa con los lectores
 3.2 No les hagas perder el tiempo
 3.3 Ayuda a la persona que accede a tu web
@@ -51,8 +52,10 @@ Estructurar la información de modo que encuentren fácilmente la información q
 
  **ESTILO** 
 1. _Longitud de los textos_
+
 +Más fácil perder la concentración al leer textos en pantalla que al leerlos en formato papel.
 + Debemos aprovechar la hipertextualidad para definir la jerarquila de los contenidos y aligerar los textos.
+   
     **1.1** ¿Qué se considera un texto largo?
 + La longitud no es un problema relacionado con un número concreto de palabras.
 Tipo de Texto| Número máximo (palabras)|
