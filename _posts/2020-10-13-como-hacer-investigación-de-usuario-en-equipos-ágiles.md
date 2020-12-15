@@ -12,6 +12,7 @@ Recomendaciones para que funcionen bien:
 
 **Mitos de investigación de usuarios en equipos ágiles**
 **Rompiendo los mitos**
+Para incorporar las actividades de la investigación de usuarios en tu proceso ágil, todo el equipo debe cambiar a una visión del producto centrada en el usuario. El cambio comienza cuando el aprendizaje de los usuarios está en el centro de tu trabajo. 
 1. *Prueba pequeñas hipótesis*
 Evalua pequeñas partes de tu producto **mediante la formulación de una hipótesis sobre cómo resolver un problems con un nuevo diseño o función.** Por ejemplo: "Creeemos que si implementamos una funcionalidad de alerta de conflictos podremos reducir los tickets de soporte en un 30%". De repente, el trabajo cambia. Ahora el objetivo es reducri los ticktes de sporte, no liberar una funcionalidad determinada. Esto significa que el equipo explorará opciones como la **creación de un rol de moderador.** No hay necesidad de investigar el producto completo, solamente esa pequeña idea. 
 2. *Asignar el trabajo de investigación*
@@ -25,9 +26,16 @@ Podrías instruir al resto del **equipo a ejecutar las sesiones por sí mismos**
 Consejos para equipos locales| Consejos para equipos distribuidos y usuarios remotos|
 -----------------------------| -----------------------------------------------------|
 Laboratoio de investigación de usuarios llamado Atlab.No es de ninguna manera un laboratorio costoso o de alta tecnología. | Las pruebas de **usabilidad** se pueden realizar a traves de videollamdas. Lo ideal es usar alguna herramienta que muestre lo que sucede en la computadora del usuario (desktop sharing) y también muestre su webcam.
+Es un espacio de trabajo exclusivamente dedicado a ahcer este tipo de investigaciones; siempre disponible para todos.| Para crear diagramas de afinidad que ayuden interpretar los resultados de tu investigación puedes utilizar post-its virtuales en Google Drawings o algo similar.
+Lograrón crear la mentalidad correcta del equipo alrededor de solucionar problemas reales de gente real.|  Para reclutar usuarios que pruebn y evalúen tu producto puedes utilizar herramientas como **eth.io o usertesting.com**. También **Tree Tests o Card Sorting**.Prioriza tu backlog con la encuesta de satisfacción de la Metodologóa Kano. 
 
 **Incorporación en ciclo ágil**
+Antes de entrar al ciclo de desarrollo debemos incluir un ciclo de investigación y validación de ideas. El cual a su vez se convertirá en el documento de requerimientos que hará posible la planeación del sprint y el desarrollo de lo planeado. En ambos ciclos hay actividades de investigación específicas que puedes realizar.
 **Conclusión**
-- Los product managers ahorrarán dinero
-- Los diseñadores estarán seguros sobre sus decisiones de diseño
+Establecer una práctica de investigación de usuarios llevará tiempo, pero poco a poco ayudarás a tu **equipo a integrar la voz del cliente en su trabajo**. 
+- Los product managers ahorrarán dinero.
+- Los diseñadores estarán seguros sobre sus decisiones de diseño. 
+- Los desarrolladores pueden ver su trabajo siendo utilizado en tiempo real. 
+
+No es posible crear soluciones sin incluir la perspectiva del cliente. La gente no va a pagar por productos que no se adepten a sus necesidades. 
 
