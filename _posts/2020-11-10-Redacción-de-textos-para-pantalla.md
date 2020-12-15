@@ -1,6 +1,6 @@
 ---
-title: "Carlota zapirain Redacción de textos para pantalla"
-date: 2020-11-10
+Title: "Carlota Zapirain: Redacción de textos para pantalla (pag.87-144) y eSTILO (PAG.145-214) IVAP (2014)"
+Date: 2020-11-10
 ---
 
 1. Una nueva forma de leer
