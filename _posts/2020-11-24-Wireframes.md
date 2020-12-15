@@ -1,6 +1,6 @@
 ---
-title: "Carlota zapirain Wireframes"
-date: 2020-11-19
+Title: "Carlota zapirain: Wireframes"
+Date: 2020-11-24
 ---
 
 ¿Qué es un wireframe?
