@@ -1,5 +1,5 @@
 ---
-Title: "Carlota Zapirain: The Lean Ux Canvas"
+Title: "Carlota Zapirain: The Lean Ux Canvas Jeff Gothelf (2016-2019)"
 Date: 2020-10-06
 --- 
 
