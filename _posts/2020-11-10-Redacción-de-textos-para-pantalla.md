@@ -57,7 +57,12 @@ Estructurar la información de modo que encuentren fácilmente la información q
 + La longitud no es un problema relacionado con un número concreto de palabras.
 Tipo de Texto| Número máximo (palabras)|
 -------------| ------------------------|
-Títulos| 4-8| Frases| 15-20| Párrafos| 40-70| Resúmenes|30-50|Páginas normales| 500| Páginas largas| 700
+Títulos| 4-8| 
+Frases| 15-20|
+Párrafos| 40-70| 
+Resúmenes|30-50|
+Páginas normales|500| 
+Páginas largas| 700|
 1
 + Insistimos en que la longitud no es un probelma relacionado con un número concreto de palabras.
 + Los usuarios captan más contenido en un primer vistazo, sin tener que desplazarse hacia arriba o hacia abajo por la pantalla. 
