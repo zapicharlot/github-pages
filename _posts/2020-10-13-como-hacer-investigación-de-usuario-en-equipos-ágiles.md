@@ -22,8 +22,9 @@ El rápido ritmo de los sprints podría no permitir profundizar en la investigac
 Para constuir un entendimiento compartido de los problemas del usuario no hay sustituo para invitar a todo el mundo del equipo a las sesiones. 
 Podrías instruir al resto del **equipo a ejecutar las sesiones por sí mismos**. Inicialmente, podrían tomar notas, hablar con los clientes y hacer preguntas sencillas. Con el tiempo se verán tan acostumbrados al proceso que serán capaces de hacerlo por su cuenta. 
 
-**Consejos para equipos locales**
-**Consejos para equipos distribuidos y usuarios remotos**
+Consejos para equipos locales| Consejos para equipos distribuidos y usuarios remotos|
+Laboratoio de investigación de usuarios llamado Atlab.No es de ninguna manera un laboratorio costoso o de alta tecnología. | Las pruebas de **usabilidad** se pueden realizar a traves de videollamdas. Lo ideal es usar alguna herramienta que muestre lo que sucede en la computadora del usuario (desktop sharing) y también muestre su webcam.
+
 **Incorporación en ciclo ágil**
 **Conclusión**
 - Los product managers ahorrarán dinero
