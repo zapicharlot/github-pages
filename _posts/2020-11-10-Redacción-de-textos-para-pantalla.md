@@ -9,7 +9,7 @@ Hábitos de usuarios en la web:
 - La lectura es **dinámica**: nos desplazamos de una página web o otra.
 - No leemos, **escaneamos**: centramos la atención en ciertas propiedades con el fin de obtener cuanto antes una idea general.
 - La**ubicación**
-- El **diseño**
+- El **diseño**   
 - Leer en pantalla resulta **pesado**
 
 2. Escribir textos para la web es una habilidad específica
