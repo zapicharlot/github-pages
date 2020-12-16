@@ -50,7 +50,8 @@ Estructurar la información de modo que encuentren fácilmente la información q
 
 
 
- **ESTILO** 
+ **ESTILO**
+
 1. _Longitud de los textos_
 
 +Más fácil perder la concentración al leer textos en pantalla que al leerlos en formato papel.
@@ -66,38 +67,67 @@ Párrafos| 40-70|
 Resúmenes|30-50|
 Páginas normales|500| 
 Páginas largas| 700|
-1
+    **1.2 Textos 50% mas cortos**
++ Se eliminan elementos de dudosa importancia.
+Se destaca el contenido verdaderamente práctico.
++ Los usuarios captan más contenido en un primer vistazo, sin tener que desplazarse hacia arriba o hacia abajo por la pantalla.
+    **1.3 ¿Como abreviar?**
++ Detectar y eliminar la información irrelevante.
 + Insistimos en que la longitud no es un probelma relacionado con un número concreto de palabras.
 + Los usuarios captan más contenido en un primer vistazo, sin tener que desplazarse hacia arriba o hacia abajo por la pantalla. 
-
-1.3 ¿Cómo **abreviar**?
-El método es muy simple: se trata de detectar y eleminar la información irrelevante.
++ El método es muy simple: se trata de detectar y eleminar la información irrelevante.
 1. Hábitos de redacción
 2. Discursos innecesarios: Los intentos de cortar y eliminar todo lo que podamos se deben efectuar por fases. No se esperes abreviar todo en el primer intento. 
 
-1.4 Longitud de los documentos adjuntos
-- Se trata de un texto que no sigue los parámetros de lectura de la web.
-- Pero debemos analizar el tipo de texto que tenemos entre manos antes de decidir si lo publicaremos en la web como material adjunto, de forma que resulte una opción inadecuada. 
-2. Párrafos 
-- Asimilar temas complejos.
-- Reconocer la estructura general del escrito.
-- Detectar la idea principal desarrollada en cada párrafo. 
-- Elegir el ritmo de lectura: ojearlo por encima, encontrar una determinada información, consultar un dato en concreto. 
-- Presentamos las ideas de manera ordenada y lógica.
-- Tenemos entre manos una estructura organizativa muy efectiva que sirve para desarrollar cualquier tema. 
-- Controlamos en todo momento la progesión que va a tener la información a lo largo del texto.
-- Máximo de 40-70 palabras por párrafo; esto, es,dos o tres frases. 
-- Párrafo ideal 3-5 lineas.
-- A la hora de escribir o reescribir, deberíamos considerar cada párrafo como un objetivo aparte; como un unidad de sentido construdida por una idea principal y sus complementos.
-- Importancia de la primera frase.
-- Importancia de los marcadores textuales: sin embargo, además, por consiguiente...etc. 
-- Frases breves y simples: estrucura: sujeto-verbo-objeto. 
-- Combinando frases de diferntes longitudes se mejora el ritmo del texto.
-- Situar la información más importante al principio de la frase. 
-- Evitar frases con múltiples oraciones. 
-- Especial atención a las amplicaciones y formulismos. 
-- Uso adecuado de la puntuación. 
-- No abreviar en exceso. 
+    **1.4 Longitud de los documentos adjuntos**
++ Se trata de un texto que no sigue los parámetros de lectura de la web.
++ Pero debemos analizar el tipo de texto que tenemos entre manos antes de decidir si lo publicaremos en la web como material adjunto, de forma que resulte una opción inadecuada. 
++ La gente accede a un sitio web en busca de información.
++ Criterios de búsqueda son diferentes.
+
+2. _Párrafos_
+
+    **2.1 Ventajas de escribir por párrafos**
++ Asimilar temas complejos.
++ Reconocer la estructura general del escrito.
++ Detectar la idea principal desarrollada en cada párrafo. 
++ Elegir el ritmo de lectura: ojearlo por encima, encontrar una determinada información, consultar un dato en concreto. 
++ Presentamos las ideas de manera ordenada y lógica.
++ Tenemos entre manos una estructura organizativa muy efectiva que sirve para desarrollar cualquier tema. 
++ Controlamos en todo momento la progesión que va a tener la información a lo largo del texto.
+    **2.2 Longitud de los párrafos**
++ Máximo de 40-70 palabras por párrafo; esto, es,dos o tres frases. 
++ Párrafo ideal 3-5 lineas.
++ A la hora de escribir o reescribir, deberíamos considerar cada párrafo como un objetivo aparte; como un unidad de sentido construdida por una idea principal y sus complementos.
+    **2.3 Párrafos con una única idea**
++ A la hora de escribir o reescribir, deberiamos considerar cada párrafo como un objeto aparte; como una **unidad de sentido**- construida por una idea principal y sus complementos- con una finalidad concreta dentro de la función comunicativa del texto.
+    **2.4Estructura de los párrafos**
++ Importancia de la primera frase.
++ Importancia de los marcadores textuales: sin embargo, además, por consiguiente...etc. 
+
+_3.Frases_
+
++ Frases breves y simples: estrucura: sujeto-verbo-objeto. 
++ Combinando frases de diferntes longitudes se mejora el ritmo del texto.
++ Situar la información más importante al principio de la frase. 
++ Pretender incluir más de una idea en la misma frase: a veces, mediante estructuras coordinadas, y,otras veces,mediante subordinadas.
++ Combinando frases de diferentes longuitudes se mejora el rtimo del texto.
++ El modo más directo para abreviar las frases es realizar una lista.
++ Las frases largas son apropiedades
+        + Descripciones largas
+        + Estructuras construidas en sentido cronológico
+        +Listas o catálogos: productos, nombres o imágenes
+
+    **3.1 Recomendaciones para escribir frases adecuadas**
++ Evitar frases con múltiples oraciones. 
++ Especial atención a las amplicaciones y formulismos. 
+        A) Repeticiones
+        B) Giros expletivos y adverbios de relleno
+        C)Locuciones preposicionales y adverbiales
+        D) Formulismo
++ Contolar la **cantidad, extensión y la ubicación**de los incisos
++ Uso adecuado de la puntuación. 
++ No abreviar en exceso. 
 
 **Ocho pasos** para escribir títulos efectivos 
 1. Analiza el contenido en profundidad
