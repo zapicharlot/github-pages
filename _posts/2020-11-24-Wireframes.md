@@ -3,7 +3,7 @@ Title: "Carlota Zapirain: Wireframes Webdesdecero (2015)"
 Date: 2020-11-24
 ---
 
-¿Qué es un wireframe?
+¿Qué es un wireframe? ![Wireframe-texto-6](/Imagenes/Wireframe-texto-6.jpg)
 
 Mínimo de planificación para detectar posibles problemas y evitar trabajos innecesarios. Un wireframe o prototipo no es más que un **boceto** donde se **representa visualmente**, de una forma sencilla y esquemática la estructura de una página web. 
 - **Objetivo**: definir el contenido y la posición de los diversos bloques de tu web. En los wireframes no se utilizan ni **colores**, ni **tipografías** ni cualquier **elemento gráfico**. 
@@ -18,7 +18,7 @@ Ventajas de usar wireframes
 
 Existen diferentes herramientas para crear wireframes. Tres maneras dependiendo la complejidad y el destinatario de los wireframes. 
 
-- Wireframes creados a mano
+- Wireframes creados a mano ![Wireframe-a-mano](/Imagenes/Wireframe-a-mano-lectura-6jpg)
 Esla forma más **sencilla y económica** de crear wireframes. Solo se necesita papel y boli. Se puede utilizar diferentes tamaños de papel. 
 - Utilizar plantillas imprimibles para wireframes
 Plantillas predeterminadas para crear los wireframes
@@ -28,5 +28,5 @@ Plantillas predeterminadas para crear los wireframes
 4. Sticky Jots: empresa creada por dos estudiantes de diseño donde podrás encontrar unos kits de protototipos. 
 - Utilizar un programa o aplicación 
 Crear unos wireframes para tus páginas web muy profesionales y sonmuy sencillos de usar. 
-1. Mockflow: aplicación para crear wireframes en la nube. Solo se enceita un navegador y una cuenta. Tiene una versión gratuita
-2. Balsamiq Mockups: versión tanto para windows y Mac. 
+1. **Mockflow**: aplicación para crear wireframes en la nube. Solo se enceita un navegador y una cuenta. Tiene una versión gratuita. ![Mockflow](/Imagenes/Mockflow-texto-6.jpg)
+2. **Balsamiq Mockups**: versión tanto para windows y Mac. ![Balsamiq](/Imagenes/Balsamiq-Mockups- texto-6.jpg)
