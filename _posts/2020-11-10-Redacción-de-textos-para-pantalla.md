@@ -54,7 +54,7 @@ Estructurar la información de modo que encuentren fácilmente la información q
 
 1. _Longitud de los textos_
 
-+Más fácil perder la concentración al leer textos en pantalla que al leerlos en formato papel.
++ Más fácil perder la concentración al leer textos en pantalla que al leerlos en formato papel.
 + Debemos aprovechar la hipertextualidad para definir la jerarquila de los contenidos y aligerar los textos.
    
     **1.1** ¿Qué se considera un texto largo?
