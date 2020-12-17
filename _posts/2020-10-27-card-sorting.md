@@ -4,7 +4,7 @@ Date: 2020-10-27
 --- 
 
 ¿Qué es?
-El card sorting es una **técnica de diseño** centrado en las personas que permite explorar cómo agrupan los **usuarios la información**, cómo relacionan conceptos y cuál es su percepción respector a las etiquetas del producto. 
+El card sorting es una **técnica de diseño** centrado en las personas que permite explorar cómo agrupan los **usuarios la información**, cómo relacionan conceptos y cuál es su percepción respector a las etiquetas del producto. ![ejemplo de card sorting](/Imagenes/card-sorting.jpeg)
 
 Su **objetivo** es analizar los modelos mentales de los usuarios para saber cuál es la maera óptima de estructurar y etiquetar la información.
 
@@ -54,4 +54,3 @@ Analizar las categorizaciones, es conveniente tomar nota de los comentarios y re
 
 
 
-![ejemplo de card sorting](/Imagenes/card-sorting.jpeg)
