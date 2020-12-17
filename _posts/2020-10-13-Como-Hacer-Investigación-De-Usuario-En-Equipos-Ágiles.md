@@ -7,6 +7,9 @@ La gente no va a pagar por un producto que no se adapte a sus necesidades.
 Agiles se ha convertido en la estrategia más comun en la industria del sofware.
 Los equipos ágiles pueden adaptarse rápidamente al cambio en las preferencias del usuario. La investigación de usuarios es la herramienta para detectar ese pulso de cambio. 
 
+![ciclo-agil](/Imagenes/Ciclo-Ágil-Texto-3.jpg)
+
+
 Recomendaciones para que funcionen bien:
 1. No hay UX sin el usuario
 En el centro de UX se encuentra la investigación de usuarios, la cual consiste en un conjunto de técnicas para comprender los **comportamientos, necesidades y motivaciones** de los usuarios a través de la oberservación y la medición. 
