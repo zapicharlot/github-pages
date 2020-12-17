@@ -10,9 +10,6 @@ Con el reciente lanzamiento de la Scrum con curso de UX, el lienzo de UX comenz�
 
 ![Lean-UX-Canvas-V2-Texto-2](/Imagenes/Lean-UX-Canvas-V2-Texto-2-2.jpg)
 
-![nombre alternativo por si no se ve la imagen](/nombre de la carpeta/nombre de la foto.jpg)
-
-
 Este lienzo codifica el proceso que introdujimos por primera vez en el libro Lean UX.
 Hoy en día, uso este proceso para ayudar a los equipos a enmarcar su trabajo como un problema de negocios a resolver ( más bien que una solución a implementar) y luego diseccionar ese problema de negocios en su núcleo de suposiciones. Luego entretejemos esas suposiciones en hipótesis. Finalmente, diseñamos experimentos para probar nuestras hipótesis más arriesgadas. 
 
@@ -34,8 +31,7 @@ No hay ningún cambio significatuvo aquí. **Ejemplo texto**: Creemos que se log
 
 
 
-carlota | eider| aihnoa | patrica | 
--------- ------ -------- ---------
+
 
 
                           
