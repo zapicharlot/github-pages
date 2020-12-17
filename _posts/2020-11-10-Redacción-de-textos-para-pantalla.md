@@ -107,18 +107,20 @@ Se destaca el contenido verdaderamente práctico.
 
 _3.Frases_
 
-+ Frases breves y simples: estrucura: sujeto-verbo-objeto. 
+   **3.1 Frases breves y simples**
+
 + Combinando frases de diferntes longitudes se mejora el ritmo del texto.
 + Situar la información más importante al principio de la frase. 
 + Pretender incluir más de una idea en la misma frase: a veces, mediante estructuras coordinadas, y,otras veces,mediante subordinadas.
++ Escribir frases cortas es tener en cuenta el número de palabras: intenta escribir frases de menos de 15-20 palabras.
 + Combinando frases de diferentes longuitudes se mejora el rtimo del texto.
 + El modo más directo para abreviar las frases es realizar una lista.
 + Las frases largas son apropiedades
         + Descripciones largas
         + Estructuras construidas en sentido cronológico
         +Listas o catálogos: productos, nombres o imágenes
+    **3.2 Recomendaciones para escribir frases adecuadas**
 
-    **3.1 Recomendaciones para escribir frases adecuadas**
 + Evitar frases con múltiples oraciones. 
 + Especial atención a las amplicaciones y formulismos. 
         A) Repeticiones
@@ -128,6 +130,38 @@ _3.Frases_
 + Contolar la **cantidad, extensión y la ubicación**de los incisos
 + Uso adecuado de la puntuación. 
 + No abreviar en exceso. 
+        A) Abreviaturas desconocidas
+        B) Falta de precisión
+        C) Elisión de conjunciones
+        D) Ausencia del artículo
+        E) Elisión de determinantes y preposiciones
+        F) Falta de elementos referenciales
+    **3.3 Oraciones activas**
++ En tres o cuatro palabras podemos decir que son aquelaas frases en las que queda muy claro el **quien** y el **qué**.
++ Los sujetos de las frases nombran a los autores.
++ Los verbos que aconpañan a los sujetos expresan la acción principal por esos autores.
+    **3.4 Ojo con el estilo nominal**
++ Creamos perífrasis en lugar de estructuras más simples;alargamos la frase y exponemos los conceptos de un modo más abstracto.
+    **3.5 Verbos significativos**
+ + Preguntar, ocupar, surtir, sospechar, resultar, fijar, mencionar y ocasionar.
+    **3.6 Emplear marcadores textuales**
++ Para indicar una causa: porque, ya que, motivo de... 
++ Para indicar una consecuencia: en consecuencia, por tanto, por lo cual...
++ Para indicar una condición:a condición, en caso de, siempre que...
++ Para indicar una oposición: no obstante, sin embargo, por el contrario
+    **3.7 Frses especiales**
++ Titulos: informativo, más que creativo. 
+**Intertítulos:**
+_Ayudan en la escritura_:
+    - Organizar
+    - Sintetizar
+    - Fortalecher la coherencia del texto
+    - Organizar las páginas
+_Ayudan en la lectura_:
+    -Comprener mejor:
+    - Captar los datos fundamentales 
+    - Seleccionar las lecturas:
+    - Atraer el interés:
 
 **Ocho pasos** para escribir títulos efectivos 
 1. Analiza el contenido en profundidad
