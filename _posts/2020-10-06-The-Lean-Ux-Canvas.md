@@ -6,8 +6,11 @@ Date: 2020-10-06
 Prefiero escoger y elegir las suposiciones que se pueden encontrar en el lienzo del modelo de negocio. Sera apropiado para cualquier cliente, proyecto o iniciativa en la que estoy participando. Esto los teje juntos para forma hipótesis y planes de experimentación comprobables. Como nuestro compromiso estaba terminando, quise dejarlos con un claro guía paso a paso para el descubrimiento de productos. Con ese fin, creé el Lienzo Lean UX. 
 
 Con el reciente lanzamiento de la Scrum con curso de UX, el lienzo de UX comenzó a figurar prominentemente en el conversaciones que tenía con **Josh Seiden, Gary Pedretti y Erik Weber** (los creadores del curso). Ya que nos apoyábamos mucho en el lienzo en esa clase y la cantidad de retroalimentación y preguntas acerca de esto se había acumulado durante un tiempo, pensé era el momento de actualizarlo. 
-!Lean-UX-Canvas-V1-Texto-2](/Imagenes/Lean-UX-Canvas-V1-Texto-2.jpg)
-!Lean-UX-Canvas-V2-Texto-2](/Imagenes/Lean-UX-Canvas-V2-Texto-2-2.jpg)
+![Lean-UX-Canvas-V1-Texto-2](/Imagenes/Lean-UX-Canvas-V1-Texto-2.jpg)
+
+![Lean-UX-Canvas-V2-Texto-2](/Imagenes/Lean-UX-Canvas-V2-Texto-2-2.jpg)
+
+![nombre alternativo por si no se ve la imagen](/nombre de la carpeta/nombre de la foto.jpg)
 
 
 Este lienzo codifica el proceso que introdujimos por primera vez en el libro Lean UX.
