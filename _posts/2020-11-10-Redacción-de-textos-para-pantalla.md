@@ -37,7 +37,7 @@ Estructurar la información de modo que encuentren fácilmente la información q
 4.9 Textos que no se pueden adaptar a la web
 4.10 Revisar y cororegir 
 + "Descansar" uno o dos días el texto 
-+ Léelo en viz alta
++ Léelo en voz alta
 + Ten en cuenta la **regla de oro**: si no se entiende en la primera lectura, hay que reescriberlo.
 + Contrasta con otras personas
 + Comprobarlo
@@ -148,7 +148,7 @@ _3.Frases_
 + Para indicar una consecuencia: en consecuencia, por tanto, por lo cual...
 + Para indicar una condición:a condición, en caso de, siempre que...
 + Para indicar una oposición: no obstante, sin embargo, por el contrario
-    **3.7 Frses especiales**
+    **3.7 Frases especiales**
 + Titulos: informativo, más que creativo. 
 **Intertítulos:**
 _Ayudan en la escritura_:
