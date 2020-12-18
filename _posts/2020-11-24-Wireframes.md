@@ -31,4 +31,4 @@ Plantillas predeterminadas para crear los wireframes
 Crear unos wireframes para tus páginas web muy profesionales y sonmuy sencillos de usar. 
 1. **Mockflow**: aplicación para crear wireframes en la nube. Solo se enceita un navegador y una cuenta. Tiene una versión gratuita. ![Mockflow](/Imagenes/Mockflow-texto-6.jpg)
 2. **Balsamiq Mockups**: versión tanto para windows y Mac. 
-![Balsamiq](/Imagenes/Balsamiq-Mockups-texto-6.jpg)
+![Balsamiq](/Imagenes/Balsamiq-Mockups-texto-6.png)
