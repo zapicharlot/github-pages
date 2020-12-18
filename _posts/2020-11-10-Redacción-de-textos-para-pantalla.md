@@ -59,14 +59,13 @@ Estructurar la información de modo que encuentren fácilmente la información q
    
     **1.1** ¿Qué se considera un texto largo?
 + La longitud no es un problema relacionado con un número concreto de palabras.
-Tipo de Texto| Número máximo (palabras)|
--------------| ------------------------|
-Títulos| 4-8| 
-Frases| 15-20|
-Párrafos| 40-70| 
-Resúmenes|30-50|
-Páginas normales|500| 
-Páginas largas| 700|
+1. Titulos: 4-8
+2. Frases: 15-20
+3. Párrafos: 40-70
+4. Resúmenes: 30-50
+5. Páginas normales: 500
+6. Páginas largas: 700
+
     **1.2 Textos 50% mas cortos**
 + Se eliminan elementos de dudosa importancia.
 Se destaca el contenido verdaderamente práctico.
