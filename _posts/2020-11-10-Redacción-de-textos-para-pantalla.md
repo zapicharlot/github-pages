@@ -3,7 +3,7 @@ Title: "Carlota Zapirain: Redacción de textos para pantalla (pag.87-144) y eSTI
 Date: 2020-11-10
 ---
 
-1. Una nueva forma de leer
+1. **Una nueva forma de leer**
 La wb es un medio diferente y nos comportamos diferente al papel.
 Hábitos de usuarios en la web:
 - La lectura es **dinámica**: nos desplazamos de una página web o otra.
@@ -12,20 +12,27 @@ Hábitos de usuarios en la web:
 - El **diseño**   
 - Leer en pantalla resulta **pesado**
 
-2. Escribir textos para la web es una habilidad específica
+2. **Escribir textos para la web es una habilidad específica**
 - Debemos escribir para las personas que nos leen y no para nosotros mismos
 Estructurar la información de modo que encuentren fácilmente la información que buscan.
 - Debemos esforzarnos también en lograr un diseño compresnsible y agradable a la vista. 
 
-2.1 Contenido VS diseño
-2.2 ¿Por qué debo modificar mi modo de escribir?
+_2.1 Contenido VS diseño_
+Investigaciones posteriores han demostrado que la **redacción**de los contenidos
+supone un factor **determinante** para el éxito de la comunicación en la web.
+_2.2 ¿Por qué debo modificar mi modo de escribir?_
++ La lectura que se hará del texto.
++ El éxito de los motores de búsqueda.
+
 3.**Recomendaciones generales para quien escribe textos web**
 
 3.1 No des explicaciones; conversa con los lectores
 3.2 No les hagas perder el tiempo
 3.3 Ayuda a la persona que accede a tu web
 3.4 Utiliza un lenguaje precioco, práctico y útil 
-4. Planificación de textos para la pantalla
+
+**4. Planificación de textos para la pantalla**
+
 4.1 Definir el pbjetivo
 4.2 Identificar a los destinatorios de la comunicación 
 4.3 Crear ideas para el texto
