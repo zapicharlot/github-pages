@@ -18,7 +18,7 @@ Estructurar la información de modo que encuentren fácilmente la información q
 - Debemos esforzarnos también en lograr un diseño compresnsible y agradable a la vista. 
 
 _2.1 Contenido VS diseño_
-Investigaciones posteriores han demostrado que la **redacción**de los contenidos
+Investigaciones posteriores han demostrado que la **redacción** de los contenidos
 supone un factor **determinante** para el éxito de la comunicación en la web.
 _2.2 ¿Por qué debo modificar mi modo de escribir?_
 + La lectura que se hará del texto.
