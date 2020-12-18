@@ -3,7 +3,7 @@ Title: "Carlota Zapirain: Wireframes Webdesdecero (2015)"
 Date: 2020-11-24
 ---
 
-¿Qué es un wireframe? ![Wireframe-texto-6](/Imagenes/Wireframe-texto-6.jpg)
+¿Qué es un wireframe? ![Wireframe-texto-6](/Imagenes/Wireframe-texto-6.png)
 
 Mínimo de planificación para detectar posibles problemas y evitar trabajos innecesarios. Un wireframe o prototipo no es más que un **boceto** donde se **representa visualmente**, de una forma sencilla y esquemática la estructura de una página web. 
 - **Objetivo**: definir el contenido y la posición de los diversos bloques de tu web. En los wireframes no se utilizan ni **colores**, ni **tipografías** ni cualquier **elemento gráfico**. 
@@ -18,17 +18,17 @@ Ventajas de usar wireframes
 
 Existen diferentes herramientas para crear wireframes. Tres maneras dependiendo la complejidad y el destinatario de los wireframes. 
 
-- Wireframes creados a mano ![Wireframe-a-mano](/Imagenes/Wireframe-a-mano-lectura-6.jpg)
+- Wireframes creados a mano ![Wireframe-a-mano](/Imagenes/Wireframe-a-mano-lectura-6.png)
 Esla forma más **sencilla y económica** de crear wireframes. Solo se necesita papel y boli. Se puede utilizar diferentes tamaños de papel. 
 - Utilizar plantillas imprimibles para wireframes
 Plantillas predeterminadas para crear los wireframes
 1. **Web Sketching template**: plantilla para imprimir en A4 y diseñar páginas web una resolución de 1024x758. 
 2. **Paper Browser**: plantilla diseñada para una resolución 1024x758 y guías para diseños de 960px o 800px. 
-![paper-browser](/Imagenes/paper-browser-texto-6.jpg)
+![paper-browser](/Imagenes/paper-browser-texto-6.png)
 3. Zurb Responsive Scketches: esta penssda para diseñar paginas web que se mostraran tanto en el teléfono movil como en el ordenador.  
 4. Sticky Jots: empresa creada por dos estudiantes de diseño donde podrás encontrar unos kits de protototipos. 
 - Utilizar un programa o aplicación 
 Crear unos wireframes para tus páginas web muy profesionales y sonmuy sencillos de usar. 
-1. **Mockflow**: aplicación para crear wireframes en la nube. Solo se enceita un navegador y una cuenta. Tiene una versión gratuita. ![Mockflow](/Imagenes/Mockflow-texto-6.jpg)
+1. **Mockflow**: aplicación para crear wireframes en la nube. Solo se enceita un navegador y una cuenta. Tiene una versión gratuita. ![Mockflow](/Imagenes/Mockflow-texto-6.png)
 2. **Balsamiq Mockups**: versión tanto para windows y Mac. 
 ![Balsamiq](/Imagenes/Balsamiq-Mockups-texto-6.png)

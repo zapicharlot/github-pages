@@ -7,7 +7,7 @@ La gente no va a pagar por un producto que no se adapte a sus necesidades.
 Agiles se ha convertido en la estrategia más comun en la industria del sofware.
 Los equipos ágiles pueden adaptarse rápidamente al cambio en las preferencias del usuario. La investigación de usuarios es la herramienta para detectar ese pulso de cambio. 
 
-![ciclo-agil](/Imagenes/Ciclo-Ágil-Texto-3.jpg)
+![ciclo-agil](/Imagenes/Ciclo-Ágil-Texto-3.png)
 
 
 Recomendaciones para que funcionen bien:
