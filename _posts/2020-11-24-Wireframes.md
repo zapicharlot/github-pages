@@ -19,6 +19,7 @@ Ventajas de usar wireframes
 Existen diferentes herramientas para crear wireframes. Tres maneras dependiendo la complejidad y el destinatario de los wireframes. 
 
 - Wireframes creados a mano ![Wireframe-a-mano](/Imagenes/Wireframe-a-mano-lectura-6.png)
+
 Esla forma más **sencilla y económica** de crear wireframes. Solo se necesita papel y boli. Se puede utilizar diferentes tamaños de papel. 
 - Utilizar plantillas imprimibles para wireframes
 Plantillas predeterminadas para crear los wireframes
